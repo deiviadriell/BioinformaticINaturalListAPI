@@ -1,1 +1,10 @@
 c:\users\jorge\documents\visual studio 2015\Projects\BioinformaticINaturalListAPI\BioinformaticINaturalListAPI\bin\Debug\BioinformaticINaturalListAPI.exe.config
+c:\users\jorge\documents\visual studio 2015\Projects\BioinformaticINaturalListAPI\BioinformaticINaturalListAPI\bin\Debug\BioinformaticINaturalListAPI.exe
+c:\users\jorge\documents\visual studio 2015\Projects\BioinformaticINaturalListAPI\BioinformaticINaturalListAPI\bin\Debug\BioinformaticINaturalListAPI.pdb
+c:\users\jorge\documents\visual studio 2015\Projects\BioinformaticINaturalListAPI\BioinformaticINaturalListAPI\bin\Debug\Newtonsoft.Json.dll
+c:\users\jorge\documents\visual studio 2015\Projects\BioinformaticINaturalListAPI\BioinformaticINaturalListAPI\obj\Debug\BioinformaticINaturalListAPI.csprojResolveAssemblyReference.cache
+c:\users\jorge\documents\visual studio 2015\Projects\BioinformaticINaturalListAPI\BioinformaticINaturalListAPI\obj\Debug\BioinformaticINaturalListAPI.frm_InaturalList.resources
+c:\users\jorge\documents\visual studio 2015\Projects\BioinformaticINaturalListAPI\BioinformaticINaturalListAPI\obj\Debug\BioinformaticINaturalListAPI.Properties.Resources.resources
+c:\users\jorge\documents\visual studio 2015\Projects\BioinformaticINaturalListAPI\BioinformaticINaturalListAPI\obj\Debug\BioinformaticINaturalListAPI.csproj.GenerateResource.Cache
+c:\users\jorge\documents\visual studio 2015\Projects\BioinformaticINaturalListAPI\BioinformaticINaturalListAPI\obj\Debug\BioinformaticINaturalListAPI.exe
+c:\users\jorge\documents\visual studio 2015\Projects\BioinformaticINaturalListAPI\BioinformaticINaturalListAPI\obj\Debug\BioinformaticINaturalListAPI.pdb
